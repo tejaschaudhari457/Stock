@@ -1,0 +1,277 @@
+Foundations of Algorithmic Trading
+- What Is Algorithmic Trading?
+- What Is Quantitative Trading?
+- Manual vs. Systematic vs. Algorithmic Trading
+- Types of Trading Algorithms
+- Rule-Based Trading Systems
+- Components of an Automated Trading System
+- Trading Strategy Development Lifecycle
+2. Programming Fundamentals
+- Python Basics for Trading
+- Variables, Data Types and Operators
+- Conditions and Loops
+- Functions and Modules
+- Lists, Dictionaries and Data Structures
+- NumPy and Pandas
+- Data Cleaning and Transformation
+- Working with CSV, Excel and APIs
+- Date, Time and Trading Sessions
+- Error Handling and Logging
+- Git and Version Control
+3. Financial Market Data
+- Historical OHLCV Data
+- Tick and Intraday Data
+- Bid–Ask Quotes
+- Order Book Data
+- Trade and Volume Data
+- Corporate Actions and Adjusted Prices
+- Missing Data and Duplicate Records
+- Data Quality Validation
+- Survivorship Bias
+- Look-Ahead Bias
+- Point-in-Time Data
+- Data Storage and Management
+4. Trading Strategy Design
+- Defining a Trading Hypothesis
+- Entry Rules
+- Exit Rules
+- Stop-Loss and Take-Profit Rules
+- Position Sizing
+- Capital Allocation
+- Trade Filters
+- Time-Based Rules
+- Multi-Timeframe Strategies
+- Long and Short Strategies
+- Strategy Parameters
+- Rules for Different Market Conditions
+5. Backtesting Fundamentals
+- What Is Backtesting?
+- Purpose and Limitations of Backtesting
+- Historical Simulation
+- Event-Driven Backtesting
+- Vectorized Backtesting
+- Bar-Based vs. Tick-Based Backtesting
+- Initial Capital and Cash Management
+- Trade Execution Simulation
+- Position Tracking
+- Order Simulation
+- Portfolio Equity Curve
+- Benchmark Comparison
+6. Transaction Costs and Execution
+- Brokerage and Exchange Fees
+- Taxes and Regulatory Charges
+- Bid–Ask Spread
+- Slippage
+- Market Impact
+- Partial Fills
+- Order Types and Execution Assumptions
+- Liquidity Constraints
+- Latency
+- Circuit Limits and Trading Halts
+- Realistic Fill Models
+7. Strategy Performance Metrics
+- Total Return
+- Annualized Return
+- CAGR
+- Win Rate
+- Average Win and Average Loss
+- Risk–Reward Ratio
+- Expectancy per Trade
+- Profit Factor
+- Maximum Drawdown
+- Sharpe Ratio
+- Sortino Ratio
+- Calmar Ratio
+- Recovery Factor
+- Exposure and Turnover
+- Benchmark-Adjusted Performance
+8. Statistical Validation
+- Sample Size and Statistical Reliability
+- Probability and Expected Value
+- Mean and Standard Deviation
+- Confidence Intervals
+- Hypothesis Testing
+- Correlation and Regression
+- Return Distribution
+- Outliers and Extreme Events
+- Autocorrelation
+- Stationarity Basics
+- Multiple Testing Problems
+- False Discovery and Data Snooping
+9. Overfitting and Bias Prevention
+- Overfitting
+- Curve Fitting
+- Look-Ahead Bias
+- Survivorship Bias
+- Selection Bias
+- Data Snooping
+- Leakage Between Training and Testing Data
+- Parameter Over-Optimization
+- Complexity vs. Robustness
+- Avoiding Unrealistic Backtest Assumptions
+10. Robustness Testing
+- In-Sample Testing
+- Out-of-Sample Testing
+- Train, Validation and Test Splits
+- Walk-Forward Analysis
+- Rolling-Window Testing
+- Sensitivity Analysis
+- Parameter Stability
+- Monte Carlo Simulation
+- Trade-Sequence Randomization
+- Stress Testing
+- Crisis-Period Testing
+- Testing Across Different Instruments
+- Testing Across Different Market Regimes
+11. Common Algorithmic Strategies
+- Moving Average Crossover
+- Trend Following
+- Momentum
+- Mean Reversion
+- Breakout Strategies
+- Pairs Trading
+- Statistical Arbitrage
+- Market-Making Concepts
+- VWAP-Based Strategies
+- Portfolio Rebalancing
+- Futures Strategies
+- Options Strategies
+- Multi-Factor Strategies
+12. Technical Indicators in Code
+- SMA and EMA
+- RSI
+- MACD
+- Bollinger Bands
+- ATR
+- ADX
+- VWAP
+- Volume-Based Indicators
+- Indicator Signal Generation
+- Indicator Parameterization
+- Indicator Validation
+- Avoiding Future Data Leakage
+13. Portfolio and Multi-Strategy Backtesting
+- Multiple Instruments
+- Portfolio Allocation
+- Portfolio Rebalancing
+- Correlation Between Strategies
+- Portfolio-Level Position Sizing
+- Capital and Margin Constraints
+- Overlapping Positions
+- Portfolio Drawdown
+- Risk Budgeting
+- Diversification Testing
+- Portfolio Performance Attribution
+14. Paper Trading and Forward Testing
+- What Is Paper Trading?
+- Backtesting vs. Paper Trading
+- Forward Testing
+- Simulated Order Execution
+- Signal Verification
+- Live Data Validation
+- Comparing Expected vs. Actual Fills
+- Monitoring Slippage
+- Strategy Drift
+- Criteria for Moving to Live Trading
+15. Broker APIs and Automated Execution
+- Broker API Fundamentals
+- Authentication and API Keys
+- Market Data APIs
+- Order Placement and Modification
+- Order Cancellation
+- Order Status and Trade Confirmation
+- WebSockets and Streaming Data
+- Rate Limits
+- Session Management
+- API Error Handling
+- Reconciliation of Orders and Positions
+- Secure Credential Management
+16. Live Trading System Architecture
+- Market Data Module
+- Signal Generation Module
+- Strategy Engine
+- Risk Management Engine
+- Order Management System
+- Execution Module
+- Position and P&L Tracking
+- Logging and Monitoring
+- Alerts and Notifications
+- Database and Storage
+- Failure Recovery
+- Kill Switch and Emergency Shutdown
+17. Risk Controls for Algorithms
+- Maximum Position Size
+- Maximum Daily Loss
+- Maximum Open Exposure
+- Order Quantity Limits
+- Duplicate-Order Prevention
+- Stale Data Detection
+- Price and Quantity Validation
+- Connectivity Failure Handling
+- Unexpected Position Detection
+- Automated Trading Halt Rules
+- Disaster Recovery Procedures
+18. Deployment and Operations
+- Local vs. Cloud Deployment
+- Server and VPS Basics
+- Scheduled Jobs
+- Market-Hour Scheduling
+- Environment Configuration
+- Logging and Monitoring
+- Alerts and Incident Handling
+- Backup and Recovery
+- Software Updates
+- Version Control
+- Deployment Testing
+- Operational Checklists
+19. Machine Learning for Trading — Optional Advanced
+- Supervised Learning
+- Unsupervised Learning
+- Feature Engineering
+- Target and Label Design
+- Training and Testing Splits
+- Time-Series Cross-Validation
+- Classification and Regression
+- Model Evaluation
+- Data Leakage Prevention
+- Model Drift
+- Explainability
+- Machine Learning vs. Rule-Based Strategies
+20. Indian Market and Regulatory Considerations
+- NSE and BSE Market Structure
+- Equity and Derivatives Trading Rules
+- Broker API Policies
+- Exchange Algo-Trading Requirements
+- Applicable SEBI Regulations
+- Order and Position Limits
+- Exchange Connectivity Requirements
+- Audit Trails and Record Keeping
+- Data Licensing and Usage Restrictions
+- Tax and Transaction-Cost Treatment
+- Current Broker-Specific Implementation Requirements
+Regulatory and broker requirements can change; verify the latest official rules before deploying a live system.
+21. Practical Projects
+- Build a Historical Data Loader
+- Code a Moving Average Crossover Strategy
+- Backtest an RSI Strategy
+- Add Stop-Loss and Position Sizing
+- Include Brokerage and Slippage
+- Generate a Performance Report
+- Perform Walk-Forward Testing
+- Build a Paper-Trading Bot
+- Integrate a Broker API in a Test Environment
+- Build Risk Limits and a Kill Switch
+- Monitor and Compare Live vs. Backtest Results
+22. Complete Algorithmic Trading Workflow
+1. Form a clear trading hypothesis.
+2. Collect and validate historical data.
+3. Define objective entry and exit rules.
+4. Implement position sizing and risk limits.
+5. Build a realistic backtest.
+6. Include fees, slippage and execution constraints.
+7. Evaluate returns, drawdowns and risk metrics.
+8. Test for biases and overfitting.
+9. Validate with out-of-sample and walk-forward tests.
+10. Paper trade and verify execution behavior.
+11. Deploy only after operational and risk checks.
+12. Monitor, audit and periodically reassess the strategy.
