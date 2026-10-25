@@ -1,0 +1,264 @@
+ Intraday Trading (Day Trading)
+Meaning: Buying and selling a financial instrument within the same trading day, with positions generally closed before the session ends.
+
+Key points
+- No overnight position when the strategy is strictly intraday.
+- Uses price action, technical indicators, volume and market structure.
+- Requires quick decisions and strict risk management.
+- Brokerage, taxes and slippage can reduce profits.
+- Sudden price movements can cause significant losses.
+Used by: Active traders and experienced market participants.
+
+Example: Buy a stock at ₹2,500 and sell it at ₹2,520 on the same day.
+
+Advantages
+- Avoids overnight exposure if all positions are closed.
+- Provides frequent trading opportunities.
+- Can be practiced with a defined intraday strategy.
+Risks
+- High screen-time requirements.
+- Overtrading and emotional decisions.
+- Losses from slippage, volatility and leverage.
+3. Delivery Trading (Cash Market / Investing)
+Meaning: Buying shares in the cash market and holding them beyond the trading session, typically through a demat account in India.
+
+Key points
+- Shares can be held for days, months or years.
+- Investors may receive dividends and participate in eligible corporate actions.
+- Fundamental analysis can help assess business quality and valuation.
+- There is generally no derivatives-style leverage when buying shares entirely with available cash, though broker products may offer different arrangements.
+- A longer holding period does not guarantee a profit.
+Used by: Investors, wealth builders and long-term portfolio holders.
+
+Example: Buy TCS shares and hold them for five years, subject to periodic review.
+
+Advantages
+- Potential to benefit from business growth and compounding.
+- Less need to monitor prices throughout the day.
+- Can support a diversified long-term portfolio.
+Risks
+- Business deterioration and falling share prices.
+- Valuation risk and market downturns.
+- Concentration in one company or sector.
+4. Swing Trading
+Meaning: Holding positions for a few days to several weeks to capture a price swing.
+
+Key points
+- Often combines technical analysis with market and company context.
+- Uses chart patterns, trends, support/resistance and momentum indicators.
+- Does not normally require monitoring the market all day.
+- Positions can remain exposed to overnight gaps.
+Used by: Part-time traders and active investors.
+
+Example: Buy a stock after a confirmed breakout and exit when the target or predefined stop-loss is reached over the following week.
+
+Advantages
+- Fewer trades than scalping or many intraday strategies.
+- Potential to capture meaningful price movements.
+- Can be combined with a full-time job if risk is managed.
+Risks
+- Overnight gaps.
+- False breakouts.
+- Reversals before the intended target.
+5. Positional Trading
+Meaning: Holding a trade for weeks or months to participate in a larger price trend.
+
+Key points
+- Uses higher timeframes, such as daily and weekly charts.
+- May combine technical analysis, fundamentals and macroeconomic conditions.
+- Requires patience and a plan for changing market conditions.
+- Positions need sufficient capital and risk capacity to tolerate normal fluctuations.
+Used by: Trend followers and traders who cannot watch the market continuously.
+
+Example: Enter a stock after a major trend confirmation and hold for several weeks while the trend remains valid.
+
+Advantages
+- Less need for frequent trading.
+- Can capture larger market trends.
+- Lower transaction frequency than very short-term trading.
+Risks
+- Larger adverse price movements over longer periods.
+- Overnight and event-related gaps.
+- Capital remains committed to open positions.
+6. Scalping
+Meaning: Making frequent trades to capture very small price movements.
+
+Key points
+- Holding periods may range from seconds to a few minutes.
+- Requires fast execution, discipline and reliable market data.
+- Transaction costs and bid–ask spreads matter significantly.
+- A small execution delay can change the result.
+Used by: Highly experienced, disciplined traders and specialized firms.
+
+Example: Buy at ₹500.00 and attempt to exit at ₹500.30, subject to costs and execution.
+
+Advantages
+- Short exposure per trade.
+- Many opportunities may arise during liquid market sessions.
+Risks
+- High execution and transaction-cost sensitivity.
+- Rapid losses from repeated small mistakes.
+- Demanding concentration and emotional discipline.
+7. Momentum Trading
+Meaning: Trading instruments showing strong upward or downward price movement, often supported by volume or a catalyst.
+
+Key points
+- Focuses on relative strength, price acceleration and trading activity.
+- May be used intraday or over several days.
+- Works best when sufficient directional movement exists.
+- A sharp move can reverse suddenly.
+Example: Enter a liquid stock after a breakout with strong relative volume, using a predefined exit rule.
+
+Advantages
+- Can participate in strong directional moves.
+- Rules can be defined around price strength and volume.
+Risks
+- Chasing prices after an extended move.
+- False breakouts and momentum reversals.
+- Liquidity problems in thinly traded stocks.
+8. BTST — Buy Today, Sell Tomorrow
+Meaning: Buying shares today with the intention of selling them on the next trading day.
+
+Key points
+- Used to capture a possible short-term continuation or gap.
+- The shares may not yet be available as fully settled holdings when the sale is planned.
+- Settlement rules, broker policies and eligible securities matter.
+- It is not universally available under every broker or product arrangement.
+Example: Buy a stock today and plan to sell it in the next session if the price moves favorably.
+
+Advantages
+- Provides exposure to a possible overnight price move.
+- Does not require holding for weeks or months.
+Risks
+- The stock can gap down overnight.
+- Settlement or delivery shortfalls can create additional consequences.
+- Corporate announcements and global events can move prices before the next session.
+9. STBT — Sell Today, Buy Tomorrow
+Meaning: Selling today with the intention of buying back the instrument on the next trading day at a lower price.
+
+Key points
+- Usually associated with bearish short-term views.
+- Availability depends on the instrument, exchange rules, broker and permitted trading product.
+- Cash-equity short selling in India generally has restrictions on carrying positions overnight; do not assume a normal cash-market short position can be held until tomorrow.
+- Eligible derivatives or other permitted products have their own rules.
+Example: A trader expects an eligible index futures contract to fall and plans to close or manage the position according to the applicable contract and risk rules.
+
+Risks
+- The market can rise instead of falling.
+- Short positions can incur substantial losses.
+- Instrument-specific margin and settlement requirements apply.
+10. Futures Trading
+Meaning: Trading standardized exchange-traded contracts that create obligations according to their terms.
+
+Key points
+- Futures can be used for speculation or hedging.
+- They use margin, so exposure can be larger than the initial funds deposited.
+- Contracts have expiry dates and contract-specific specifications.
+- Mark-to-market losses and margin requirements can require additional funds.
+Used by: Experienced traders, hedgers and institutions.
+
+Example: A trader buys an index futures contract expecting the index to rise, then exits according to a planned risk limit.
+
+Advantages
+- Can provide efficient market exposure.
+- Can be used to hedge an existing portfolio.
+Risks
+- Leverage magnifies gains and losses.
+- Losses can exceed the margin deposited.
+- Expiry, basis and margin risks must be understood.
+11. Options Trading
+Meaning: Trading call and put contracts. An option buyer obtains a right under the contract; an option seller assumes contractual obligations.
+
+Key points
+- Calls and puts can be used for speculation, hedging and structured strategies.
+- Premium, expiry, strike price, implied volatility and the Greeks influence option prices.
+- Buying options can result in losing the entire premium.
+- Option selling can involve substantial or theoretically unlimited losses in some strategies.
+Example: Buy a call option based on a bullish view, while recognizing that the option may lose value from time decay or a fall in implied volatility even if the underlying price rises slightly.
+
+Advantages
+- Flexible strategies for different market views.
+- Can hedge certain portfolio risks.
+- Defined-risk strategies are possible when constructed appropriately.
+Risks
+- Time decay and volatility changes.
+- Leverage and rapid premium loss.
+- Complex payoff and margin structures.
+12. Algorithmic Trading (Algo Trading)
+Meaning: Executing trading decisions using computer programs that follow predefined rules.
+
+Key points
+- Strategies can be rule-based, statistical or quantitative.
+- May execute trades automatically or generate signals for manual approval.
+- Requires data validation, testing, monitoring and failure handling.
+- Live execution can differ from backtest results.
+Used by: Quantitative traders, institutions and technically skilled traders.
+
+Example: A program generates a signal when a moving-average condition is met and places an order only if risk and execution checks pass.
+
+Advantages
+- Consistent rule execution.
+- Can analyze multiple instruments systematically.
+- Enables repeatable backtesting.
+Risks
+- Bugs, stale data and connectivity failures.
+- Overfitting historical data.
+- Unexpected market behavior and execution slippage.
+13. Arbitrage Trading
+Meaning: Attempting to profit from price differences between related instruments, markets or contract structures.
+
+Common types
+- Cash-and-carry arbitrage.
+- Reverse cash-and-carry arbitrage.
+- Index futures arbitrage.
+- Cross-market arbitrage.
+- Statistical arbitrage.
+- Convertible arbitrage.
+Example: A trader compares a stock's cash price with its futures price and evaluates whether the difference is large enough to cover financing, fees, taxes and execution costs.
+
+Advantages
+- Some strategies aim to reduce directional market exposure.
+- Pricing differences can sometimes be measured systematically.
+Risks
+- Execution and settlement mismatch.
+- Financing costs and transaction costs.
+- Differences can widen instead of converging.
+- Arbitrage is not automatically low-risk.
+
+Additional Trading Styles
+14. Breakout Trading
+Meaning: Entering when price moves beyond a defined range or important price level.
+- Uses confirmation such as volume, price acceptance or a retest.
+- Can be applied intraday or on higher timeframes.
+- Main risk: false breakouts and quick reversals.
+15. Trend-Following Trading
+Meaning: Entering in the direction of an established trend and attempting to remain in the trade while the trend continues.
+- May use moving averages, trend structure or trailing exits.
+- Often suited to swing and positional approaches.
+- Main risk: repeated small losses during sideways markets.
+16. Reversal Trading
+Meaning: Attempting to enter near a change from an existing trend to a new direction.
+- May use momentum divergence, price structure and support/resistance.
+- Requires confirmation because a trend can continue longer than expected.
+- Main risk: entering too early against a strong trend.
+17. Mean-Reversion Trading
+Meaning: Betting that a price or spread that has moved unusually far from its typical range will move back toward its statistical average.
+- Can use statistical bands, Z-scores or spread relationships.
+- Requires a clear definition of the mean and the conditions under which the strategy stops working.
+- Main risk: a trend or structural change can keep prices away from the mean.
+18. News-Based Trading
+Meaning: Trading around economic releases, company announcements, earnings or other market-moving news.
+- Requires awareness of release timing and market expectations.
+- Price may move before a trader can execute.
+- Main risks: volatility spikes, gaps, slippage and trading halts.
+19. Pairs Trading
+Meaning: Trading two historically or economically related instruments based on the behavior of their relative price or spread.
+- May involve buying one instrument and selling another.
+- Often uses correlation, spread analysis and statistical testing.
+- Main risk: the relationship can break down permanently.
+20. High-Frequency Trading (HFT)
+Meaning: Specialized algorithmic trading that uses very fast data processing and order execution, often measured in milliseconds or less.
+- Relies on sophisticated infrastructure, low latency and strict controls.
+- Commonly used by specialized firms and institutions.
+- Not simply ordinary retail algo trading at a faster speed.
+- Risks include infrastructure failures, adverse selection and intense competition.
