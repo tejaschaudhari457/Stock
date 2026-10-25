@@ -1,332 +1,833 @@
-COMPLETE STOCK MARKET & INVESTING MASTER LIST (CATEGORY-WISE)
-🟢 1. BASIC SHARE & COMPANY CONCEPTS
+PART 1 — STOCK MARKET FOUNDATIONS
+1. Basic Share and Company Concepts
+1. Share, Stock and Equity
+2. Face Value
+3. Issue Price
+4. Market Price
+5. Premium and Discount
+6. Authorised Capital
+7. Issued Capital
+8. Subscribed Capital
+9. Paid-up Capital
+10. Outstanding Shares
+11. Promoter and Promoter Holding
+12. Public Shareholding
+13. Free Float Shares
+14. Listed vs Unlisted Companies
+15. Private Limited vs Public Limited Companies
+16. Minority Shareholders
+17. Voting Rights
+18. Equity Dilution
+19. Shareholder Rights
+20. Ownership vs Management
+21. Ordinary Shares vs Preference Shares
+22. Treasury Shares and Employee Stock Options (ESOPs)
+23. Shareholding Pattern
+24. Fully Diluted Share Count
+2. Stock Market Structure and Types
+1. Stock Market Fundamentals
+2. Primary Market vs Secondary Market
+3. Initial Public Offering (IPO)
+4. Follow-on Public Offer (FPO)
+5. Offer for Sale (OFS)
+6. Rights Issue
+7. Preferential Allotment
+8. Qualified Institutional Placement (QIP)
+9. Private Placement
+10. Book Building Process
+11. Fixed Price Issue
+12. Price Band and Cut-off Price
+13. Lot Size
+14. Oversubscription and Undersubscription
+15. IPO Allotment Process
+16. IPO Valuation and Pricing
+17. Listing Gains vs Long-Term Investment Value
+18. SME IPOs vs Mainboard IPOs
+19. Fresh Issue vs Offer for Sale
+20. Lock-in Periods and Share Supply
+3. Stock Exchanges and Market Infrastructure
+1. Stock Exchanges — NSE and BSE
+2. Trading Platforms
+3. Trading Hours and Market Sessions
+4. Pre-open Market
+5. Opening and Closing Price Mechanisms
+6. Clearing Corporations
+7. Clearing and Settlement
+8. Settlement Cycle — T+1 and Applicable Alternatives
+9. Trade Date vs Settlement Date
+10. Depositories — NSDL and CDSL
+11. Dematerialisation and Rematerialisation
+12. Corporate Action Processing
+13. Circuit Breakers
+14. Upper and Lower Price Limits
+15. Trading Halts
+16. Market Surveillance
+17. Index Calculation and Dissemination
+18. Securities Lending and Borrowing Mechanism (SLBM)
+19. Market Infrastructure Institutions
+20. Role of SEBI in Market Regulation
+4. Accounts and Market Participants
+1. Demat Account
+2. Trading Account
+3. Bank Account and Brokerage Linkage
+4. Depository Participant (DP)
+5. Stockbroker and Brokerage Firms
+6. Discount Brokers vs Full-Service Brokers
+7. Client ID and UCC
+8. Margin Account
+9. Margin Requirements
+10. Leverage and Margin Calls
+11. Pledge and Re-pledge of Securities
+12. Retail Investors
+13. High-Net-Worth Investors
+14. Institutional Investors
+15. Domestic Institutional Investors (DIIs)
+16. Foreign Portfolio Investors (FPIs)
+17. Mutual Funds and Insurance Companies
+18. Pension Funds
+19. Market Makers
+20. Custodians
+21. Investment Advisers and Research Analysts
+22. Broker Charges and Investor Statements
+23. Nomination and Transmission of Securities
+5. Order Types and Market Terminology
+1. Buy Order and Sell Order
+2. Market Order
+3. Limit Order
+4. Stop-Loss Order
+5. Stop-Limit Order
+6. Immediate or Cancel (IOC)
+7. Delivery-Based Orders — CNC, where supported
+8. Intraday Orders — MIS, where supported
+9. NRML and Product-Type Differences
+10. Bid Price and Ask Price
+11. Bid–Ask Spread
+12. Market Depth
+13. Liquidity
+14. Slippage
+15. Trading Volume
+16. Open Interest — Concept
+17. Order Validity and Partial Execution
+18. Brokerage and Transaction Charges
+19. Trade Confirmation and Contract Notes
+20. Order Rejection and Margin Shortfall
+Note: Broker product codes and order availability vary by platform. Derivatives order behaviour and Open Interest analysis are covered in your Technical Analysis index.
 
-(Foundation – what shares and companies are)
-Share / Stock / Equity
-Face Value
-Issue Price
-Market Price
-Premium
-Discount
-Authorized Capital
-Issued Capital
-Paid-up Capital
-Outstanding Shares
-Promoter
-Promoter Holding
-Public Shareholding
-Free Float Shares
-Listed Company
-Unlisted Company
-Public Limited Company
-Private Limited Company
-(Added)
-Minority Shareholders
-Voting Rights
-Equity Dilution
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🟡 2. MARKET STRUCTURE & TYPES
+PART 2 — COMPANY FUNDAMENTALS AND FINANCIAL STATEMENTS
+6. Company Financial Concepts
+Revenue and profitability
+1. Revenue and Sales
+2. Other Income
+3. Cost of Goods Sold (COGS)
+4. Gross Profit
+5. Operating Expenses (Opex)
+6. Operating Profit
+7. EBITDA
+8. EBIT
+9. Depreciation and Amortisation
+10. Interest Expense
+11. Profit Before Tax (PBT)
+12. Tax Expense
+13. Net Profit and Profit After Tax (PAT)
+14. Earnings Per Share (EPS)
+15. Exceptional and Extraordinary Items
+16. Continuing vs Discontinued Operations
+Cash flow and capital
+17. Operating Cash Flow
+18. Investing Cash Flow
+19. Financing Cash Flow
+20. Free Cash Flow (FCF)
+21. Capital Expenditure (CapEx)
+22. Working Capital
+23. Inventory and Receivables
+24. Accounts Payable
+25. Cash and Cash Equivalents
+26. Gross Debt and Net Debt
+27. Reserves and Surplus
+28. Contingent Liabilities
+29. Intangible Assets and Goodwill
+30. Shareholders' Equity
+7. Understanding Financial Statements
+1. Income Statement — Profit and Loss Account
+2. Balance Sheet
+3. Cash Flow Statement
+4. Statement of Changes in Equity
+5. Notes to Accounts
+6. Standalone vs Consolidated Financial Statements
+7. Quarterly vs Annual Results
+8. Year-on-Year (YoY) Growth
+9. Quarter-on-Quarter (QoQ) Growth
+10. Trailing Twelve Months (TTM)
+11. Revenue Recognition
+12. Expense Recognition
+13. Depreciation Methods
+14. Provisions and Contingent Liabilities
+15. Related-Party Transactions
+16. Segment Reporting
+17. Auditor's Report
+18. Qualified Audit Opinions
+19. Cash Flow vs Accounting Profit
+20. Earnings Quality
+21. Restatements and Financial Statement Revisions
+22. Annual Report Analysis
+8. Financial Ratios — Complete Reference
+A. Profitability Ratios
+1. Gross Profit Margin
+2. Operating Profit Margin
+3. EBIT Margin
+4. EBITDA Margin
+5. Net Profit Margin
+6. Return on Equity (ROE)
+7. Return on Assets (ROA)
+8. Return on Capital Employed (ROCE)
+9. Return on Invested Capital (ROIC)
+10. Return on Tangible Equity
+11. Incremental Return on Capital
+B. Liquidity Ratios
+1. Current Ratio
+2. Quick Ratio
+3. Cash Ratio
+4. Operating Cash Flow Ratio
+5. Working Capital Measures
+C. Solvency and Leverage Ratios
+1. Debt-to-Equity Ratio
+2. Debt Ratio
+3. Equity Ratio
+4. Net Debt-to-EBITDA
+5. Interest Coverage Ratio
+6. Debt Service Coverage Ratio (DSCR)
+7. Long-Term Debt-to-Equity
+8. Capital Gearing Ratio
+9. Fixed-Charge Coverage Ratio
+10. Debt Maturity Profile
+D. Efficiency and Activity Ratios
+1. Asset Turnover
+2. Fixed Asset Turnover
+3. Inventory Turnover
+4. Receivables Turnover
+5. Payables Turnover
+6. Working Capital Turnover
+7. Cash Conversion Cycle (CCC)
+8. Days Inventory Outstanding (DIO)
+9. Days Sales Outstanding (DSO)
+10. Days Payables Outstanding (DPO)
+E. Valuation Ratios and Per-Share Metrics
+1. Earnings Per Share (EPS)
+2. Price-to-Earnings (P/E)
+3. Forward P/E
+4. Price-to-Book (P/B)
+5. Price-to-Sales (P/S)
+6. Price-to-Earnings-Growth (PEG)
+7. Enterprise Value (EV)
+8. EV/EBITDA
+9. EV/Sales
+10. EV/EBIT
+11. Book Value Per Share
+12. Tangible Book Value Per Share
+13. Free Cash Flow Per Share
+14. Price-to-Free-Cash-Flow
+15. Dividend Yield
+16. Earnings Yield
+17. Intrinsic Value vs Market Price
+F. Shareholder Return Ratios
+1. Dividend Payout Ratio
+2. Dividend Retention Ratio
+3. Total Shareholder Return (TSR)
+4. Buyback Yield
+5. Shareholder Yield
+6. Dividend Growth Rate
+7. Earnings Yield vs Bond Yield
+G. Cash Flow Ratios
+1. Operating Cash Flow to Net Profit
+2. Free Cash Flow
+3. Free Cash Flow Yield
+4. Cash Flow Margin
+5. Operating Cash Flow to Debt
+6. Cash Return on Invested Capital (CROIC)
+7. Capital Expenditure to Operating Cash Flow
+H. Growth Ratios
+1. Revenue Growth
+2. Gross Profit Growth
+3. Operating Profit Growth
+4. Net Profit Growth
+5. EPS Growth
+6. Operating Cash Flow Growth
+7. Free Cash Flow Growth
+8. Dividend Growth
+9. Compound Annual Growth Rate (CAGR)
+10. Sustainable Growth Rate (SGR)
+I. Market and Risk Metrics
+1. Market Capitalisation
+2. Enterprise Value
+3. Beta
+4. Volatility
+5. Alpha
+6. Maximum Drawdown
+7. Tracking Error
+8. Information Ratio
+9. Sharpe Ratio
+10. Sortino Ratio
+11. Treynor Ratio
+12. Margin of Safety
+Important: Market capitalisation, enterprise value, EPS and intrinsic value are not all ratios. They are included here as essential valuation metrics. Ratios should be compared with industry peers and the company's own history rather than interpreted in isolation.
 
-(How stock markets are organised)
-Stock Market
-Primary Market
-Secondary Market
-IPO (Initial Public Offering)
-FPO (Follow-on Public Offer)
-OFS (Offer for Sale)
-Rights Issue
-Book Building Process
-Fixed Price Issue
-Price Band
-Cut-off Price
-Lot Size
-Oversubscription
-Undersubscription
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🔵 3. STOCK EXCHANGE & INFRASTRUCTURE
-(Where & how trading happens)
-Stock Exchange
-Trading Platform
-Trading Hours
-Market Session
-Clearing Corporation
-Settlement System
-Settlement Cycle (T+1 / T+2)
-Trade Date
-Settlement Date
-Circuit Breaker
-Upper Circuit
-Lower Circuit
-(Added)
-Pre-open Market
-Closing Price Mechanism
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🟣 4. ACCOUNTS & MARKET PARTICIPANTS
+PART 3 — FUNDAMENTAL ANALYSIS AND COMPANY VALUATION
+9. Fundamental Analysis
+1. What Is Fundamental Analysis?
+2. Fundamental vs Technical Analysis
+3. Top-Down Analysis
+4. Bottom-Up Analysis
+5. Industry Analysis
+6. Business Model Analysis
+7. Revenue Model and Pricing Power
+8. Cost Structure
+9. Profitability Analysis
+10. Cash Flow Analysis
+11. Balance Sheet Strength
+12. Debt and Financial Risk
+13. Management Quality
+14. Promoter Holding and Pledging
+15. Competitive Position
+16. Earnings Quality
+17. Growth Sustainability
+18. Red Flags in Financial Statements
+19. Investment Thesis Development
+20. Investment Thesis Review
+10. Business Quality and Competitive Advantage
+1. Competitive Advantage
+2. Economic Moat
+3. Brand Strength
+4. Switching Costs
+5. Network Effects
+6. Cost Advantages
+7. Economies of Scale
+8. Distribution Advantages
+9. Intellectual Property
+10. Customer Concentration
+11. Supplier Concentration
+12. Pricing Power
+13. Market Share
+14. Industry Structure
+15. Barriers to Entry
+16. Cyclical vs Defensive Businesses
+17. Capital-Intensive vs Asset-Light Businesses
+18. Recurring Revenue vs Transactional Revenue
+19. Scalability
+20. Business Model Sustainability
+11. Management, Governance and Corporate Quality
+1. Promoter Background
+2. Management Track Record
+3. Corporate Governance
+4. Board Independence
+5. Independent Directors
+6. Related-Party Transactions
+7. Auditor Independence
+8. Auditor Resignations
+9. Promoter Share Pledging
+10. Equity Dilution
+11. Executive Compensation
+12. Capital Allocation Decisions
+13. Dividend and Buyback Policy
+14. Mergers and Acquisitions
+15. Corporate Fraud and Financial Manipulation
+16. Minority Shareholder Protection
+17. Regulatory Investigations
+18. Insider Trading and Disclosure Rules
+19. Environmental, Social and Governance (ESG) Risks
+20. Management Credibility
+12. Stock Valuation Methods
+1. Relative Valuation
+2. Absolute Valuation
+3. Discounted Cash Flow (DCF)
+4. Dividend Discount Model (DDM)
+5. Gordon Growth Model
+6. Free Cash Flow to Firm (FCFF)
+7. Free Cash Flow to Equity (FCFE)
+8. Comparable Company Analysis
+9. Precedent Transaction Analysis
+10. Sum-of-the-Parts Valuation (SOTP)
+11. Asset-Based Valuation
+12. Net Asset Value (NAV)
+13. Replacement Cost Valuation
+14. Earnings-Based Valuation
+15. Residual Income Valuation
+16. Scenario Analysis
+17. Sensitivity Analysis
+18. Terminal Value
+19. Cost of Equity
+20. Weighted Average Cost of Capital (WACC)
+21. Risk-Free Rate
+22. Equity Risk Premium
+23. Margin of Safety
+24. Fair Value vs Market Price
+25. Valuation Traps and Assumption Risk
+13. Industry and Sector Analysis
+1. Industry Life Cycle
+2. Emerging vs Mature Industries
+3. Market Size and Total Addressable Market (TAM)
+4. Market Share and Growth
+5. Porter's Five Forces
+6. Competitive Intensity
+7. Regulatory Barriers
+8. Industry Profit Margins
+9. Commodity Sensitivity
+10. Capacity Utilisation
+11. Demand and Supply Cycles
+12. Import Dependence
+13. Export Competitiveness
+14. Industry-Specific Financial Metrics
+15. Peer Comparison
+16. Sector Rotation — Conceptual Investment View
+17. Secular Growth vs Cyclical Growth
+18. Industry Disruption and Technology Risk
 
-(How an investor participates)
-Demat Account
-Trading Account
-Depository (NSDL / CDSL – concept)
-Depository Participant (DP)
-Broker
-Sub-Broker
-Client ID
-Margin Account
-Margin
-Leverage
-Pledge
-Re-pledge
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🔴 5. ORDER TYPES & TRADING TERMINOLOGY
+PART 4 — STOCK VALUATION, PRICE AND RETURNS
+14. Price, Value and Return Concepts
+1. Market Capitalisation
+2. Large-Cap, Mid-Cap and Small-Cap Stocks
+3. Micro-Cap Stocks
+4. Free-Float Market Capitalisation
+5. Enterprise Value
+6. Book Value
+7. Intrinsic Value
+8. Fair Value
+9. Undervalued vs Overvalued Stocks
+10. Value Traps
+11. Growth Stocks vs Value Stocks
+12. Quality Stocks
+13. Cyclical Stocks
+14. Defensive Stocks
+15. Dividend Stocks
+16. Absolute Return
+17. Annualised Return
+18. CAGR
+19. Total Return
+20. Total Shareholder Return
+21. Real vs Nominal Return
+22. Inflation-Adjusted Return
+23. Risk-Adjusted Return
+24. Time-Weighted Return
+25. Money-Weighted Return
+26. Drawdown and Recovery
+27. Compounding
+28. Opportunity Cost
+29. Margin of Safety
+15. Corporate Actions and Shareholder Events
+1. Cash Dividend
+2. Interim and Final Dividend
+3. Special Dividend
+4. Dividend Payout Ratio
+5. Ex-Dividend Date
+6. Record Date
+7. Payment Date
+8. Bonus Shares
+9. Stock Split
+10. Share Buyback
+11. Rights Issue
+12. Preferential Issue
+13. Merger
+14. Demerger
+15. Acquisition
+16. Spin-Off
+17. Delisting
+18. Voluntary vs Compulsory Delisting
+19. Share Consolidation
+20. ESOPs and Employee Share Issuance
+21. Equity Dilution
+22. Impact of Corporate Actions on Share Count and Valuation
+16. IPO and New Investment Opportunities
+1. IPO Research
+2. Draft Red Herring Prospectus (DRHP)
+3. Red Herring Prospectus (RHP)
+4. Offer Document Analysis
+5. Fresh Issue vs Offer for Sale
+6. IPO Valuation
+7. Promoter Background
+8. Financial Track Record
+9. Use of IPO Proceeds
+10. Risk Factors
+11. Peer Valuation
+12. Anchor Investors
+13. Institutional and Retail Subscription
+14. IPO Allotment
+15. Listing-Day Volatility
+16. Lock-in Expiry
+17. Post-Listing Financial Performance
+18. Long-Term IPO Investment Analysis
 
-(How buying & selling works)
-Buy Order
-Sell Order
-Market Order
-Limit Order
-Stop Loss Order
-Stop Limit Order
-IOC Order
-CNC (Delivery)
-MIS (Intraday)
-NRML
-Bid Price
-Ask Price
-Spread
-Liquidity
-Slippage
-Volume
-Open Interest (OI)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🟠 6. PRICE, VALUE & RETURN CONCEPTS
+PART 5 — BANKING AND FINANCIAL SECTOR
+17. Bank and NBFC Analysis
+1. Banking Business Model
+2. Deposits and Advances
+3. CASA Ratio
+4. Net Interest Income (NII)
+5. Net Interest Margin (NIM)
+6. Cost of Funds
+7. Yield on Advances
+8. Credit Growth
+9. Deposit Growth
+10. Loan Book Quality
+11. Gross Non-Performing Assets (GNPA)
+12. Net Non-Performing Assets (NNPA)
+13. Provisioning
+14. Provision Coverage Ratio (PCR)
+15. Slippages and Recoveries
+16. Credit Cost
+17. Capital Adequacy Ratio (CAR)
+18. Common Equity Tier 1 (CET1)
+19. Credit-Deposit Ratio
+20. Liquidity Coverage Ratio (LCR)
+21. Net Stable Funding Ratio (NSFR)
+22. Return on Assets (ROA)
+23. Return on Equity (ROE)
+24. Loan Growth vs Asset Quality
+25. Bank Valuation — P/B and Other Suitable Metrics
+26. NBFC Business Models
+27. Housing Finance Companies
+28. Microfinance Institutions
+29. Insurance Company Analysis
+30. Asset Management Company Analysis
+Note: Banks and NBFCs need specialised analysis. Ratios such as EV/EBITDA and conventional industrial-company debt ratios may not be meaningful for many financial institutions.
 
-(Understanding price vs value)
-Market Capitalization
-Large Cap
-Mid Cap
-Small Cap
-Micro Cap
-Free Float Market Cap
-Enterprise Value (EV)
-Book Value
-Intrinsic Value
-Fair Value
-Undervalued Stock
-Overvalued Stock
-Margin of Safety
-Absolute Return
-CAGR
-Risk-Adjusted Return
-(Added)
-Inflation-Adjusted Return
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🟤 7. COMPANY FINANCIAL CONCEPTS
+PART 6 — INVESTING STRATEGIES AND PORTFOLIO MANAGEMENT
+18. Types of Investing
+1. Value Investing
+2. Growth Investing
+3. Quality Investing
+4. Dividend Investing
+5. Income Investing
+6. GARP — Growth at a Reasonable Price
+7. Contrarian Investing
+8. Momentum Investing — Cross-reference to Technical Analysis
+9. Index Investing
+10. Passive Investing
+11. Active Investing
+12. Factor Investing
+13. Small-Cap and Mid-Cap Investing
+14. Large-Cap Investing
+15. Thematic Investing
+16. Sector Investing
+17. Cyclical Investing
+18. Defensive Investing
+19. Long-Term Buy-and-Hold
+20. Turnaround Investing
+21. Special Situations Investing
+22. Investing vs Trading
+23. Investment Horizon and Objectives
+19. Portfolio Construction and Asset Allocation
+1. What Is a Portfolio?
+2. Asset Allocation
+3. Strategic vs Tactical Asset Allocation
+4. Equity vs Debt Allocation
+5. Domestic vs International Allocation
+6. Diversification
+7. Concentration Risk
+8. Stock and Sector Weightings
+9. Correlation Between Assets
+10. Portfolio Volatility
+11. Systematic vs Unsystematic Risk
+12. Portfolio Beta
+13. Rebalancing
+14. Core-Satellite Portfolio
+15. Benchmark Selection
+16. Portfolio Performance Evaluation
+17. Risk Tolerance and Investment Horizon
+18. Liquidity Needs
+19. Emergency Funds vs Investment Capital
+20. Tax-Aware Portfolio Management
+21. Portfolio Drawdown Control
+22. Asset Allocation Across Life Stages
+20. Mutual Funds, ETFs and Other Investment Products
+1. Mutual Fund Basics
+2. Equity Mutual Funds
+3. Debt Mutual Funds
+4. Hybrid Funds
+5. Index Funds
+6. Exchange-Traded Funds (ETFs)
+7. Direct vs Regular Mutual Fund Plans
+8. Growth vs IDCW Options
+9. Net Asset Value (NAV)
+10. Expense Ratio
+11. Tracking Error
+12. Tracking Difference
+13. SIP — Systematic Investment Plan
+14. Lump-Sum Investing
+15. Systematic Withdrawal Plan (SWP)
+16. Fund Manager and Investment Mandate
+17. Portfolio Holdings
+18. Fund Benchmark
+19. Active vs Passive Funds
+20. Gold ETFs and Other Commodity-Linked Products
+21. REITs
+22. InvITs
+23. Sovereign Gold Bonds — Product and Availability Considerations
+24. Fund Selection and Risk Assessment
+21. Fixed Income and Alternative Investments
+1. Government Securities
+2. Treasury Bills
+3. Corporate Bonds
+4. Bond Prices and Yields
+5. Credit Ratings
+6. Interest Rate Risk
+7. Duration and Maturity
+8. Credit Risk
+9. Yield to Maturity
+10. Fixed Deposits
+11. Recurring Deposits
+12. Public Provident Fund (PPF)
+13. National Pension System (NPS)
+14. Employees' Provident Fund (EPF)
+15. Gold and Precious Metals
+16. Real Estate
+17. REITs and InvITs
+18. Commodity Exposure
+19. Alternative Investment Funds (AIFs)
+20. Private Equity and Venture Capital — Introduction
+21. Liquidity and Lock-In Risk
+22. Risk–Return Comparison Across Asset Classes
 
-(Understanding business numbers)
-Revenue
-Sales
-Gross Profit
-Operating Income
-EBITDA
-EBIT
-Net Profit
-Earnings
-EPS (Earnings Per Share)
-Cash Flow
-Operating Cash Flow
-Free Cash Flow
-Working Capital
-Capex
-Opex
-Debt
-Net Debt
-Reserves & Surplus
-Contingent Liabilities
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-⚫ 8. FINANCIAL RATIOS – COMPLETE LIST
+PART 7 — MACROECONOMICS AND STOCK MARKET CONNECTIONS
+22. Economic Factors Affecting Investments
+1. GDP Growth and Corporate Earnings
+2. Inflation and Purchasing Power
+3. Interest Rates and Equity Valuation
+4. RBI Monetary Policy
+5. Government Fiscal Policy
+6. Fiscal Deficit and Bond Yields
+7. Liquidity and Credit Conditions
+8. Currency Movements
+9. Crude Oil Prices
+10. Gold Prices and Risk Sentiment
+11. Global Economic Growth
+12. US Federal Reserve Policy
+13. Foreign Portfolio Investment Flows
+14. Domestic Institutional Investment Flows
+15. Foreign Exchange Reserves
+16. Trade Deficits and Export Growth
+17. Employment and Consumer Demand
+18. Commodity Price Cycles
+19. Global Geopolitical Risks
+20. Economic Recessions and Corporate Profits
+21. Yield Curves and Market Expectations
+22. Sector Sensitivity to Economic Cycles
+23. Market Indices and Benchmarking
+1. What Is a Stock Market Index?
+2. Nifty 50
+3. Sensex
+4. Nifty Next 50
+5. Nifty 100 and Nifty 500
+6. Mid-Cap and Small-Cap Indices
+7. Sectoral Indices
+8. Index Weighting Methodologies
+9. Free-Float Market Capitalisation
+10. Index Rebalancing
+11. Benchmark Selection
+12. Total Return Index vs Price Return Index
+13. Alpha and Beta
+14. Market Volatility
+15. Relative Performance
+16. Benchmark-Adjusted Returns
+17. Sector Performance Comparison
+18. Index Concentration Risk
 
-🟢 Profitability Ratios
+PART 8 — TAXATION, REGULATION AND INVESTOR PROTECTION
+24. Indian Stock Market Taxation
+1. Capital Gains Tax Basics
+2. Short-Term Capital Gains (STCG)
+3. Long-Term Capital Gains (LTCG)
+4. Equity vs Debt Investment Tax Treatment
+5. Securities Transaction Tax (STT)
+6. Dividend Taxation
+7. Tax Treatment of Mutual Funds
+8. Tax Treatment of ETFs
+9. Set-Off of Capital Losses
+10. Carry Forward of Eligible Losses
+11. Tax on Intraday Trading
+12. Tax on Futures and Options
+13. Turnover Calculation for Trading
+14. Advance Tax — Applicability
+15. Tax Deducted at Source (TDS) — Applicable Cases
+16. Capital Gains Reporting
+17. AIS and Form 26AS
+18. Income Tax Return Reporting
+19. Tax-Loss Harvesting
+20. Tax Records and Contract Notes
+21. Tax Rules for NRIs — Introduction
+22. Changing Tax Rules and Official Verification
+Tax rates, holding-period definitions and loss-set-off rules can change. Verify the applicable financial year's rules using official Income Tax Department guidance or a qualified tax professional.
+25. Regulation, Compliance and Investor Rights
+1. Role of SEBI
+2. SEBI Regulations
+3. Investor Charter
+4. Stock Exchange Rules
+5. Depository Rules
+6. Insider Trading Regulations
+7. Prohibition of Market Manipulation
+8. Corporate Disclosure Requirements
+9. Related-Party Transaction Rules
+10. Takeover Regulations
+11. Minimum Public Shareholding
+12. Investor Grievance Redressal
+13. SCORES and Applicable Complaint Mechanisms
+14. Investor Protection Funds
+15. Broker Default and Investor Protection
+16. Unclaimed Dividends and Shares
+17. Investor Education and Awareness
+18. Fraudulent Investment Schemes
+19. Pump-and-Dump Schemes
+20. Unregistered Investment Advisers
+21. Research Analyst Disclosures
+22. KYC and AML Requirements
+23. Nomination and Transmission
+24. Cybersecurity and Account Protection
 
-Gross Profit Margin
-Operating Profit Margin (OPM / EBIT Margin)
-Net Profit Margin (NPM)
-ROE
-ROA
-ROCE
-ROIC
-EBITDA Margin
+PART 9 — INVESTOR PSYCHOLOGY AND RISK MANAGEMENT
+26. Risk Management for Investors
+1. Risk vs Return
+2. Risk–Reward Ratio
+3. Position Sizing
+4. Capital Allocation
+5. Portfolio Diversification
+6. Concentration Risk
+7. Market Risk
+8. Business Risk
+9. Financial Risk
+10. Liquidity Risk
+11. Credit Risk
+12. Currency Risk
+13. Interest Rate Risk
+14. Inflation Risk
+15. Regulatory Risk
+16. Governance Risk
+17. Valuation Risk
+18. Permanent Capital Loss
+19. Maximum Drawdown
+20. Portfolio Stress Testing
+21. Scenario Analysis
+22. Margin and Leverage Risk
+23. Investment Horizon and Liquidity
+24. Capital Preservation
+27. Investor Psychology and Decision-Making
+1. Fear and Greed
+2. Patience and Discipline
+3. FOMO — Fear of Missing Out
+4. Herd Behaviour
+5. Confirmation Bias
+6. Loss Aversion
+7. Anchoring Bias
+8. Recency Bias
+9. Overconfidence
+10. Sunk Cost Fallacy
+11. Disposition Effect
+12. Mental Accounting
+13. Overtrading
+14. Revenge Trading — Cross-reference to Technical Analysis
+15. Emotional Buying and Selling
+16. Long-Term Thinking
+17. Avoiding Narrative-Driven Investing
+18. Investment Journal
+19. Pre-Investment Checklist
+20. Post-Investment Review
 
-🟡 Liquidity Ratios
+PART 10 — ADVANCED INVESTMENT RESEARCH
+28. Research Process and Stock Selection
+1. Define Investment Objectives
+2. Build an Investment Universe
+3. Understand the Business
+4. Study Industry Economics
+5. Analyse Financial Statements
+6. Evaluate Management Quality
+7. Assess Competitive Advantage
+8. Calculate Valuation
+9. Identify Risks and Red Flags
+10. Form an Investment Thesis
+11. Define Valuation and Monitoring Criteria
+12. Determine Portfolio Allocation
+13. Establish Conditions for Selling
+14. Monitor Quarterly Results
+15. Review the Investment Thesis
+16. Record Research Sources and Assumptions
+29. Investment Screening and Data Analysis
+1. Fundamental Stock Screeners
+2. Revenue and Profit Growth Filters
+3. Return on Capital Filters
+4. Debt and Interest Coverage Filters
+5. Cash Flow Quality Filters
+6. Valuation Filters
+7. Dividend Filters
+8. Promoter Holding and Pledging Checks
+9. Peer Comparison
+10. Historical Financial Trends
+11. Quarterly Result Analysis
+12. Annual Report Research
+13. Earnings Call Transcripts
+14. Shareholding Pattern Analysis
+15. Insider and Related-Party Disclosures
+16. Screening Limitations
+17. Avoiding False Positives
+18. Spreadsheet-Based Research
+19. Watchlist Management
+20. Investment Research Database
+30. Special Situations and Advanced Corporate Analysis
+1. Mergers and Acquisitions
+2. Demergers and Spin-Offs
+3. Corporate Restructuring
+4. Turnaround Companies
+5. Distressed Businesses
+6. Debt Restructuring
+7. Bankruptcy and Insolvency
+8. Buyback Arbitrage — Risks and Mechanics
+9. Rights Issue Analysis
+10. Dilution and Capital Raising
+11. Promoter Pledging and Pledge Release
+12. Corporate Governance Events
+13. Regulatory and Legal Contingencies
+14. Cyclical Earnings Normalisation
+15. Sum-of-the-Parts Valuation
+16. Capital Allocation and Shareholder Value
+17. Special Dividend and Cash-Rich Companies
+18. Value Traps vs Genuine Opportunities
 
-Current Ratio
-Quick Ratio
-Cash Ratio
-Working Capital Ratio
-
-🔵 Solvency / Leverage Ratios
-
-Debt to Equity
-Debt Ratio
-Equity Ratio
-Interest Coverage Ratio
-Debt Service Coverage Ratio (DSCR)
-Long-Term Debt to Equity
-Capital Gearing Ratio
-
-🟣 Efficiency / Activity Ratios
-
-Asset Turnover
-Fixed Asset Turnover
-Inventory Turnover
-Receivables Turnover
-Payables Turnover
-Working Capital Turnover
-Cash Conversion Cycle (CCC)
-DIO / DSO / DPO
-
-🔴 Valuation Ratios
-
-EPS
-P/E
-P/B
-P/S
-PEG
-EV/EBITDA
-EV/Sales
-Market Capitalization
-Book Value Per Share
-Intrinsic Value
-
-🟠 Shareholder / Investor Ratios
-
-Dividend Yield
-Dividend Payout Ratio
-Retention Ratio
-Earnings Yield
-Total Shareholder Return (TSR)
-Buyback Yield
-
-🟤 Cash Flow Ratios
-
-Operating Cash Flow Ratio
-Free Cash Flow (FCF)
-FCF Yield
-Cash Flow Margin
-CROCI
-Operating Cash Flow to Debt
-
-⚫ Growth Ratios
-
-Revenue Growth
-Profit Growth
-EPS Growth
-Cash Flow Growth
-Dividend Growth
-Sustainable Growth Rate (SGR)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🟢 9. BANKING & FINANCIAL SECTOR CONCEPTS
-
-(Banks & NBFC specific)
-CASA Ratio
-Net Interest Margin (NIM)
-Gross NPA (GNPA)
-Net NPA (NNPA)
-Provisioning
-Provision Coverage Ratio (PCR)
-Credit Growth
-Deposit Growth
-Loan Book
-Cost of Funds
-Yield on Advances
-Capital Adequacy Ratio (CAR)
-Credit-Deposit Ratio
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🟡 10. CORPORATE ACTIONS
-
-(Events affecting stock price)
-Dividend
-Interim Dividend
-Dividend Yield
-Dividend Payout
-Bonus Shares
-Stock Split
-Buyback
-Rights Issue
-Merger
-Demerger
-Acquisition
-Delisting
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🔵 11. MARKET INDICES & BENCHMARKS
-
-(Overall market performance)
-Index
-Broad Market Index
-Sectoral Index
-Free-Float Methodology
-Index Weightage
-Index Rebalancing
-Alpha
-Beta
-Volatility
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🟣 12. TECHNICAL ANALYSIS CONCEPTS
-
-(When to buy & sell)
-Charts
-Time Frames
-Candlestick Patterns
-Trend
-Uptrend / Downtrend
-Sideways Market
-Support
-Resistance
-Breakout
-Breakdown
-Moving Averages
-RSI
-MACD
-Volume Analysis
-Chart Patterns
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🔴 13. DERIVATIVES & ADVANCED INSTRUMENTS
-
-(High risk – advanced)
-Derivatives
-Futures
-Options
-Call Option
-Put Option
-Strike Price
-Premium
-Expiry
-Intrinsic Value
-Time Value
-Greeks (Delta, Gamma, Theta, Vega)
-Hedging
-Speculation
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🟠 14. TAXATION & COMPLIANCE (India-Specific)
-
-STCG
-LTCG
-Securities Transaction Tax (STT)
-Dividend Taxation
-Set-off of Losses
-Carry Forward of Losses
-Compliance & Reporting
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🧠 15. RISK MANAGEMENT & INVESTOR PSYCHOLOGY
-
-(Most important for success)
-Risk–Reward Ratio
-Position Sizing
-Capital Allocation
-Portfolio Diversification
-Drawdown
-Volatility
-Fear
-Greed
-Patience
-Discipline
-Overtrading
+PART 11 — INVESTMENT RESOURCES AND PRACTICAL WORKFLOW
+31. Official Research Sources and Learning Resources
+1. SEBI — Regulations and Investor Education
+2. NSE — Market Data and Corporate Filings
+3. BSE — Market Data and Corporate Filings
+4. NSDL and CDSL — Depository Information
+5. Company Annual Reports
+6. Quarterly Results and Investor Presentations
+7. Stock Exchange Announcements
+8. Earnings Call Transcripts
+9. Ministry of Corporate Affairs (MCA)
+10. Reserve Bank of India (RBI)
+11. Ministry of Finance
+12. Union Budget and Economic Survey
+13. Income Tax Department
+14. Screener and Financial Data Platforms
+15. Mutual Fund Factsheets
+16. Credit Rating Reports
+17. Industry Association Reports
+18. Investor Presentations and Business Updates
+19. Official Company Websites
+20. Independent Verification of Financial Data
+32. Complete Stock Investment Workflow
+1. Define Financial Goals and Investment Horizon
+2. Assess Risk Tolerance and Liquidity Needs
+3. Select the Asset Class
+4. Select the Market, Sector and Industry
+5. Identify Potential Companies
+6. Study the Business Model
+7. Analyse Financial Statements
+8. Evaluate Management and Corporate Governance
+9. Compare Industry Peers
+10. Calculate Valuation
+11. Identify Risks and Downside Scenarios
+12. Estimate Potential Return and Margin of Safety
+13. Decide Portfolio Allocation
+14. Execute the Investment
+15. Record the Investment Thesis
+16. Monitor Results and Disclosures
+17. Review Valuation and Business Performance
+18. Rebalance the Portfolio When Needed
+19. Sell When the Thesis or Risk Profile Warrants It
+20. Evaluate Long-Term Performance Against a Suitable Benchmark
