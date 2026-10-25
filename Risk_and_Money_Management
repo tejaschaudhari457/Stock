@@ -1,0 +1,383 @@
+Foundations of Risk Management
+- What Is Risk Management?
+- What Is Money Management?
+- Difference Between Risk Management and Money Management
+- Why Risk Management Is Important
+- Types of Financial Risk
+- Market Risk
+- Company-Specific Risk
+- Liquidity Risk
+- Volatility Risk
+- Leverage Risk
+- Gap Risk
+- Execution Risk
+- Operational and Technology Risk
+- Systematic vs. Unsystematic Risk
+- Risk Tolerance vs. Risk Capacity
+- Risk–Return Relationship
+- Capital Preservation
+- Risk of Permanent Capital Loss
+2. Capital Management and Trading Budget
+- Total Capital vs. Trading Capital
+- Investment Capital vs. Speculative Capital
+- Emergency Fund vs. Market Capital
+- Capital Allocation by Strategy
+- Capital Allocation by Asset Class
+- Capital Allocation by Stock or Instrument
+- Cash Reserve Management
+- Available Funds vs. Usable Margin
+- Deployable Capital
+- Capital Preservation Rules
+- Maximum Capital Exposure
+- Avoiding Overexposure
+- Reinvestment of Profits
+- Withdrawals and Profit Allocation
+- Scaling Capital as Experience Grows
+3. Position Sizing
+- What Is Position Sizing?
+- Fixed-Quantity Position Sizing
+- Fixed-Capital Position Sizing
+- Fixed-Fractional Position Sizing
+- Risk-Based Position Sizing
+- Volatility-Based Position Sizing
+- ATR-Based Position Sizing
+- Portfolio-Based Position Sizing
+- Position Sizing for Stocks
+- Position Sizing for Intraday Trading
+- Position Sizing for Swing Trading
+- Position Sizing for Positional Trading
+- Position Sizing for Futures
+- Position Sizing for Options
+- Position Sizing for Multiple Positions
+- Maximum Position Size
+- Position Size vs. Stop-Loss Distance
+- Adjusting Position Size to Market Volatility
+4. Risk per Trade and Risk–Reward
+- Risk per Trade
+- Risk as a Percentage of Capital
+- Initial Risk
+- Maximum Planned Loss
+- Risk–Reward Ratio
+- Reward-to-Risk vs. Risk-to-Reward Terminology
+- Potential Profit vs. Potential Loss
+- Minimum Reward–Risk Criteria
+- Win Rate and Risk–Reward Relationship
+- Break-Even Win Rate
+- Trading Expectancy
+- Average Winning Trade
+- Average Losing Trade
+- Profitability After Trading Costs
+- Risk Units (R-Multiples)
+- Measuring Results in R
+- Planned Risk vs. Actual Risk
+- Risk–Reward Limitations and False Precision
+5. Stop-Loss Management
+- What Is a Stop-Loss?
+- Stop-Loss vs. Stop-Limit Order
+- Fixed-Percentage Stop-Loss
+- Price-Level Stop-Loss
+- Technical Stop-Loss
+- Volatility-Based Stop-Loss
+- ATR-Based Stop-Loss
+- Time-Based Stop-Loss
+- Trailing Stop-Loss
+- Dynamic Stop-Loss
+- Initial Stop-Loss vs. Trailing Stop
+- Stop-Loss Placement Principles
+- Stop-Loss Distance and Position Size
+- Stop-Loss Gaps and Slippage
+- Stop-Loss Execution Risk
+- When Not to Move a Stop-Loss
+- Stop-Loss Hunting: Meaning and Limitations
+- Avoiding Arbitrarily Tight Stop-Losses
+- Stop-Loss Rules for Different Trading Styles
+6. Daily, Weekly and Monthly Risk Limits
+- Maximum Risk per Trade
+- Maximum Daily Loss
+- Maximum Weekly Loss
+- Maximum Monthly Loss
+- Maximum Number of Trades per Session
+- Maximum Open Positions
+- Maximum Total Open Risk
+- Daily Drawdown Limit
+- Weekly Drawdown Limit
+- Monthly Drawdown Limit
+- Trading Halt Rules After Losses
+- Cooling-Off Period After Large Losses
+- Risk Limits During High-Volatility Events
+- Rules for Resuming Trading After a Drawdown
+7. Drawdown and Capital Protection
+- What Is Drawdown?
+- Absolute Drawdown
+- Relative Drawdown
+- Maximum Drawdown
+- Current Drawdown
+- Peak-to-Trough Drawdown
+- Drawdown Recovery
+- Recovery Percentage Required After a Loss
+- Capital Erosion
+- Compounding Losses
+- Losing Streaks
+- Consecutive Loss Probability
+- Risk of Ruin
+- Capital Preservation Strategies
+- Reducing Risk During Drawdowns
+- Recovery Planning Without Revenge Trading
+- Protecting Capital During Market Crashes
+8. Portfolio Risk Management
+- What Is Portfolio Risk?
+- Portfolio Diversification
+- Asset Allocation
+- Stock and Sector Concentration
+- Single-Stock Exposure Limits
+- Sector Exposure Limits
+- Market-Capitalization Exposure
+- Correlation Between Holdings
+- Portfolio Volatility
+- Portfolio Beta
+- Portfolio Drawdown
+- Weighted Portfolio Returns
+- Portfolio-Level Stop and Exit Rules
+- Cash Allocation and Liquidity Reserves
+- Rebalancing Rules
+- Concentration Risk vs. Diversification Benefits
+- Correlation Increasing During Market Stress
+- Portfolio Risk Across Multiple Strategies
+- Hedging Portfolio Exposure
+9. Leverage, Margin and Borrowing Risk
+- What Is Leverage?
+- Leverage Ratio
+- Margin Requirements
+- Initial Margin
+- Maintenance Margin
+- Available Margin
+- Used Margin
+- Margin Utilization
+- Buying Power
+- Margin Calls
+- Forced Liquidation
+- Borrowing to Invest
+- Interest and Financing Costs
+- Leverage Magnifies Gains and Losses
+- Overnight Leverage Risk
+- Gap Risk Under Leverage
+- Broker-Specific Margin Rules
+- Avoiding Excessive Leverage
+10. Risk Management for Different Trading Styles
+- Intraday Risk Management
+- Scalping Risk Management
+- Swing Trading Risk Management
+- Positional Trading Risk Management
+- Momentum Trading Risk Management
+- Breakout Trading Risk Management
+- Reversal Trading Risk Management
+- Trend-Following Risk Management
+- Mean-Reversion Risk Management
+- BTST Risk Management
+- Short-Selling Risk Management
+- News-Based Trading Risk Management
+- Delivery Investing Risk Management
+- Long-Term Portfolio Risk Management
+- Algorithmic Trading Risk Management
+11. Futures Risk Management
+- Futures Contract Specifications
+- Contract Value and Lot Size
+- Futures Leverage
+- Margin and Exposure
+- Risk per Futures Contract
+- Stop-Loss Distance in Futures
+- Mark-to-Market Settlement
+- Variation Margin
+- Expiry and Rollover Risk
+- Basis Risk
+- Overnight and Weekend Risk
+- Gap Risk
+- Liquidity and Slippage
+- Position Limits
+- Multiple-Contract Exposure
+- Hedging with Futures
+- Futures Risk Calculation Examples
+12. Options Risk Management
+- Options Buyer vs. Options Seller Risk
+- Maximum Possible Loss
+- Maximum Possible Profit
+- Options Payoff Diagrams
+- Breakeven Price
+- Premium at Risk
+- Time Decay (Theta)
+- Implied Volatility Risk
+- Delta Exposure
+- Gamma Risk
+- Vega Risk
+- Expiry-Day Risk
+- Overnight Gap Risk
+- Liquidity and Bid–Ask Spread
+- Naked Option Selling Risk
+- Defined-Risk vs. Undefined-Risk Strategies
+- Position Sizing for Options
+- Margin and Forced Liquidation Risk
+- Multi-Leg Strategy Risk
+- Assignment and Settlement Risk, Where Applicable
+- Volatility Crush
+- Options Risk Scenarios and Payoff Analysis
+13. Hedging and Risk Reduction
+- What Is Hedging?
+- Hedging vs. Speculation
+- Portfolio Hedging
+- Stock and Index Hedging
+- Futures-Based Hedging
+- Protective Put
+- Covered Call
+- Protective Collar
+- Spread-Based Risk Limitation
+- Hedge Ratio
+- Basis Risk in Hedging
+- Hedge Cost and Benefit
+- Over-Hedging and Under-Hedging
+- Hedge Adjustment
+- Hedge Effectiveness
+- When Hedging May Not Be Worth the Cost
+14. Investment Risk Management
+- Business Risk
+- Financial Risk
+- Debt and Insolvency Risk
+- Valuation Risk
+- Earnings Risk
+- Governance Risk
+- Sector Risk
+- Economic and Interest-Rate Risk
+- Inflation Risk
+- Currency Risk
+- Dividend Sustainability
+- Permanent Loss of Capital
+- Margin of Safety
+- Diversification Across Companies and Sectors
+- Long-Term Investment Horizon
+- Investment Thesis Invalidation
+- Rebalancing and Exit Criteria
+- Avoiding Excessive Concentration in a Single Company
+15. Liquidity, Execution and Operational Risk
+- Liquidity Risk
+- Bid–Ask Spread
+- Market Impact
+- Slippage
+- Partial Fills
+- Order Rejection
+- Trading Halts and Circuit Limits
+- Gap Risk
+- Exchange and Broker Outages
+- Internet and Power Failure
+- Incorrect Order Entry
+- Wrong Quantity or Price
+- Duplicate Orders
+- API and Algorithm Failures
+- Data Feed Errors
+- Corporate Actions and Settlement Issues
+- Contingency and Emergency Exit Plans
+16. Trading Psychology and Risk Discipline
+- Risk Tolerance and Emotional Control
+- Fear of Loss
+- Greed and Overconfidence
+- Revenge Trading
+- Overtrading
+- Increasing Position Size After Losses
+- Moving Stop-Losses Without a Valid Rule
+- Holding Losing Trades Too Long
+- Exiting Winning Trades Too Early
+- Loss Aversion
+- Confirmation Bias
+- Recency Bias
+- FOMO (Fear of Missing Out)
+- Discipline and Rule-Based Trading
+- Maintaining a Trading Journal
+- Following Daily Loss Limits
+- Knowing When to Stop Trading
+17. Trading Journal and Performance Measurement
+- Recording Entry and Exit Prices
+- Recording Planned and Actual Risk
+- Recording Position Size
+- Recording Trading Costs
+- Win Rate
+- Average Win and Average Loss
+- Profit Factor
+- Expectancy per Trade
+- R-Multiple Analysis
+- Maximum Drawdown
+- Average Drawdown
+- Recovery Factor
+- Sharpe Ratio
+- Sortino Ratio
+- Calmar Ratio
+- Performance by Strategy
+- Performance by Market Condition
+- Performance Before and After Costs
+- Reviewing Rule Violations
+- Periodic Risk Review
+18. Risk Management for Algorithmic Trading
+- Strategy-Level Risk Limits
+- Portfolio-Level Risk Limits
+- Maximum Order Size
+- Maximum Position Exposure
+- Maximum Daily Loss Controls
+- Order Rate and Duplicate-Order Controls
+- Pre-Trade Risk Checks
+- Post-Trade Monitoring
+- Kill Switches
+- Circuit Breakers
+- Data Validation
+- Connectivity Failure Handling
+- Unexpected Position Detection
+- Backtest Risk vs. Live Risk
+- Model and Parameter Risk
+- Overfitting Risk
+- Deployment and Version Control
+- Logging, Alerts and Recovery Procedures
+19. Risk Mathematics and Formulas
+- Percentage Return
+- Position Value
+- Capital at Risk
+- Risk per Share
+- Position Size Based on Stop-Loss
+- Risk–Reward Ratio
+- Break-Even Win Rate
+- Trading Expectancy
+- Profit Factor
+- Maximum Drawdown
+- Recovery Percentage
+- Portfolio Weighted Return
+- Portfolio Variance and Volatility
+- Correlation
+- Beta
+- Leverage Ratio
+- Margin Utilization
+- Expected Loss
+- Risk of Ruin — basic estimation
+- Compounding and Capital Growth
+20. Practical Risk Management Workflow
+1. Define the trading or investment strategy.
+2. Identify the major risks and conditions that invalidate the plan.
+3. Determine available capital and acceptable loss limits.
+4. Set the maximum risk per trade or investment.
+5. Calculate position size before entering.
+6. Account for fees, taxes, spread and possible slippage.
+7. Define the stop-loss, exit rules or investment review criteria.
+8. Check total portfolio exposure and correlated positions.
+9. Confirm margin and liquidity requirements, if applicable.
+10. Execute according to the plan.
+11. Monitor risk and avoid unplanned increases in exposure.
+12. Record the result in a journal.
+13. Review performance and adjust risk rules based on evidence.
+21. Practical Calculations and Case Studies
+- Calculate Position Size from Capital and Stop-Loss
+- Calculate Risk for Multiple Open Trades
+- Calculate Risk–Reward and Break-Even Win Rate
+- Calculate Expected Value from Win Rate and Average Outcomes
+- Calculate Drawdown After Consecutive Losses
+- Calculate Capital Needed for Drawdown Recovery
+- Compare Fixed-Quantity vs. Fixed-Risk Position Sizing
+- Calculate Portfolio Exposure Across Correlated Stocks
+- Calculate Futures Exposure and Margin Risk
+- Compare Long Option and Short Option Payoffs
+- Calculate Hedging Ratios
+- Evaluate Strategy Performance After Trading Costs
+- Create a Personal Risk Management Plan
