@@ -1,0 +1,269 @@
+1. Basics of Technical Analysis
+- What Is Technical Analysis?
+- Price Action and Market Psychology
+- Demand and Supply
+- Technical vs Fundamental Analysis
+- Efficient Market Hypothesis and Random Walk Theory
+2. Financial Markets and Trading Instruments
+- Stocks, Indices, ETFs
+- NSE and BSE
+- Futures and Options
+- Commodities and Currencies
+- Market Orders, Liquidity and Bid–Ask Spread
+3. Chart Types
+- Line Chart
+- Bar Chart
+- Candlestick Chart — basic reading only
+- Heikin Ashi
+- Renko
+- Point and Figure
+- Kagi and Three-Line Break
+4. Timeframes and Trading Styles
+- Tick, 1-minute, 5-minute, 15-minute, 1-hour, Daily, Weekly and Monthly
+- Scalping
+- Intraday Trading
+- Swing Trading
+- Positional Trading
+- Long-Term Trend Following
+- Multi-Timeframe Analysis
+5. Candlestick Fundamentals — No Pattern Catalogue
+- OHLC
+- Bullish vs Bearish Candle
+- Candle Body and Wicks
+- Candle Range and Closing Strength
+- Candle Momentum
+- Volume and Candle Interpretation
+6. Price Action Analysis
+- Impulse vs Correction
+- Rejection and Acceptance
+- Inside Bars and Outside Bars
+- Momentum Expansion and Contraction
+- Pullbacks and Retracements
+- Failed Breakouts
+- Price Compression and Expansion
+7. Trends and Market Structure
+- Uptrend, Downtrend and Sideways Market
+- Higher Highs and Higher Lows
+- Lower Highs and Lower Lows
+- Swing Highs and Swing Lows
+- Trend Reversal and Continuation
+- Break of Structure (BOS)
+- Change of Character (CHoCH)
+- Accumulation, Markup, Distribution and Markdown
+8. Support and Resistance
+- Horizontal Support and Resistance
+- Dynamic Support and Resistance
+- Previous-Day, Previous-Week and Previous-Month Highs/Lows
+- Psychological Levels
+- Role Reversal
+- Strong vs Weak Levels
+- Confluence Zones
+9. Supply and Demand
+- Supply Zones and Demand Zones
+- Fresh vs Tested Zones
+- Rally–Base–Rally
+- Drop–Base–Drop
+- Rally–Base–Drop
+- Drop–Base–Rally
+- Institutional Order Flow Concepts
+- Order Blocks and Breaker Blocks
+10. Breakouts, Breakdowns and Gaps
+- Breakout and Breakdown
+- False Breakout
+- Retest and Failed Retest
+- Volume-Confirmed Breakout
+- Opening Range Breakout
+- Gap Up and Gap Down
+- Breakaway, Runaway and Exhaustion Gaps
+11. Trendlines, Channels and Drawing Tools
+- Trendlines
+- Parallel Channels
+- Ascending and Descending Channels
+- Regression Channels
+- Pitchfork Tools
+- Chart Annotation
+- Trendline Breaks and Retests
+12. Classical Chart Patterns
+- Head and Shoulders
+- Inverse Head and Shoulders
+- Double Top and Double Bottom
+- Triple Top and Triple Bottom
+- Bull and Bear Flags
+- Pennants
+- Triangles
+- Wedges
+- Rectangles
+- Cup and Handle
+- Rounding Top and Bottom
+- Breakout Confirmation and Price Targets
+13. Fibonacci Tools
+- Fibonacci Retracement
+- Fibonacci Extension and Projection
+- Golden Ratio
+- Common Fibonacci Levels
+- Fibonacci Confluence
+- Fibonacci with Support and Resistance
+- Fibonacci-Based Target Zones
+14. Moving Averages and Trend Indicators
+- SMA, EMA, WMA and VWMA
+- 9, 20, 21, 50, 100 and 200 Periods
+- Golden Cross and Death Cross
+- ADX and DMI
+- Supertrend
+- Parabolic SAR
+- Ichimoku Cloud
+- Aroon Indicator
+- Donchian Channels
+15. Momentum Indicators
+- RSI
+- Overbought and Oversold
+- RSI Divergence
+- MACD
+- Stochastic Oscillator
+- Stochastic RSI
+- ROC and Momentum
+- CCI and Williams %R
+- Indicator Divergence
+16. Volatility Indicators
+- ATR
+- Bollinger Bands
+- Bollinger Band Squeeze
+- Keltner Channels
+- Historical and Implied Volatility
+- Standard Deviation
+- Volatility Expansion and Contraction
+- Volatility-Based Stop-Loss
+17. Volume Analysis
+- Volume and Relative Volume
+- Volume Spikes
+- Volume Breakouts
+- Price–Volume Relationship
+- OBV
+- Volume Price Trend
+- Chaikin Money Flow
+- Money Flow Index
+- VWAP and Anchored VWAP
+- Volume Profile, POC, VAH and VAL
+18. Market Breadth and Other Indicators
+- Advance–Decline Line
+- Advance–Decline Ratio
+- New Highs and New Lows
+- Relative Strength vs Benchmark
+- Sector Strength
+- Pivot Points
+- Put–Call Ratio
+- VIX and Volatility Indices
+- Intermarket Analysis
+19. Smart Money Concepts and Advanced Price Action
+- Higher-Timeframe Bias
+- Lower-Timeframe Entry
+- Liquidity Pools
+- Buy-Side and Sell-Side Liquidity
+- Liquidity Sweeps
+- Stop Hunts and False Breakouts
+- Fair Value Gaps
+- Imbalances
+- Premium and Discount Zones
+- Limitations of Institutional-Order Interpretations
+20. Futures and Options Technical Analysis
+- Spot vs Futures Price
+- Futures Premium and Discount
+- Open Interest and Volume
+- Long Buildup and Short Buildup
+- Long Unwinding and Short Covering
+- Option Chain Analysis
+- Call and Put Open Interest
+- Max Pain Theory
+- Implied Volatility
+- Option Greeks
+- Expiry-Day Price Behaviour
+21. Market Profile and Order Flow
+- Market Profile and TPO
+- Auction Market Theory
+- Volume Profile
+- Bid–Ask Volume
+- Footprint Charts
+- Cumulative Volume Delta
+- Order Book and Market Depth
+- Absorption and Exhaustion
+- Liquidity and Slippage
+22. Trading Strategies and Setups
+- Trend-Following Strategy
+- Moving Average Strategy
+- Support and Resistance Bounce
+- Breakout and Retest
+- Pullback Strategy
+- Range Trading
+- RSI and MACD Strategies
+- VWAP Strategy
+- Opening Range Breakout
+- Volume-Confirmed Trading
+- Multi-Timeframe Confluence
+- Rules-Based Trading Systems
+23. Risk and Money Management
+- Stop-Loss
+- Target Placement
+- Risk-to-Reward Ratio
+- Position Sizing
+- Risk Per Trade
+- Capital Allocation
+- Maximum Drawdown
+- Leverage and Margin Risk
+- Transaction Costs and Slippage
+- Risk of Ruin
+24. Trading Psychology
+- Fear and Greed
+- Patience and Discipline
+- FOMO
+- Revenge Trading
+- Overtrading
+- Confirmation Bias
+- Overconfidence
+- Trading Plan
+- Trading Journal
+- Process vs Outcome
+25. Backtesting and Strategy Evaluation
+- Manual and Automated Backtesting
+- Win Rate
+- Average Win and Average Loss
+- Expectancy
+- Profit Factor
+- Maximum Drawdown
+- In-Sample and Out-of-Sample Testing
+- Walk-Forward Testing
+- Overfitting and Curve Fitting
+- Paper Trading and Forward Testing
+26. Trading Platforms and Technical Tools
+- TradingView
+- Chart Layouts and Watchlists
+- Drawing Tools and Indicators
+- Alerts and Screeners
+- Historical Chart Replay
+- Pine Script Fundamentals
+- Strategy Tester
+- Trade Journaling in Excel
+- Automated Trading Basics
+27. Complete Trade Execution Flow
+- Market Overview
+- Higher-Timeframe Trend
+- Market Structure
+- Support and Resistance
+- Select a Setup
+- Confirm Volume and Momentum
+- Entry Trigger
+- Stop-Loss and Target
+- Position Size and Risk-to-Reward
+- Trade Execution
+- Position Monitoring
+- Exit and Trade Review
+28. Practical Chart Analysis
+- Nifty 50 and Sensex Analysis
+- Bank Nifty Analysis
+- Individual Stock Analysis
+- Intraday Chart Analysis
+- Swing Trading Analysis
+- Daily and Weekly Charts
+- Sector Rotation
+- Gap Opening Analysis
+- Economic News and Price Reactions
+- Building a Personal Trading System
